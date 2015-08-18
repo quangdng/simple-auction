@@ -1,0 +1,45 @@
+.loading {
+	width: 750px;
+	color: #767676;
+	text-align: center;
+}
+.message-success {
+	width: 750px;
+	font-weight: bold;
+	background: #a5e283;
+	border: #337f09 1px solid;
+	padding: 5px;
+}
+.message-error {
+	width: 750px;
+	color: white;
+	font-weight: bold;
+	background: #ea7e7e;
+	border: #a71010 1px solid;
+	padding: 5px;
+}
+
+.form-container {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#auction_history {
+}
+#auction_history table{
+	width: 600px;
+	padding-left: 100px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border:1px solid #CFCFCF;
+	padding: 20px;
+	padding-right: 30px;
+	margin-left: 80px;
+}
+#auction_history th {
+	text-align: center;
+	font-weight: bold;
+}
+#auction_history td {
+	text-align: center;
+	padding: 10px;
+}

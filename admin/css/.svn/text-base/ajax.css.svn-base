@@ -1,0 +1,32 @@
+.loading {
+	width: 890px;
+	color: #767676;
+	text-align: center;
+}
+.message-success {
+	margin-top: 10px;
+	width: 830px;
+	font-weight: bold;
+	background: #a5e283;
+	border: #337f09 1px solid;
+	padding: 5px;
+	padding-left: 25px;
+	margin-bottom: 20px;
+	
+}
+.message-error {
+	margin-top: 10px;
+	width: 830px;
+	color: white;
+	font-weight: bold;
+	background: #ea7e7e;
+	border: #a71010 1px solid;
+	padding: 5px;
+	padding-left: 25px;
+	margin-bottom: 20px;
+}
+
+.form-container {
+	margin-top: 20px;
+	margin-left: 20px;
+}

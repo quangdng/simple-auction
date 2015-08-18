@@ -1,0 +1,25 @@
+.loading {
+	width: 750px;
+	color: #767676;
+	text-align: center;
+}
+.message-success {
+	width: 750px;
+	font-weight: bold;
+	background: #a5e283;
+	border: #337f09 1px solid;
+	padding: 5px;
+}
+.message-error {
+	width: 750px;
+	color: white;
+	font-weight: bold;
+	background: #ea7e7e;
+	border: #a71010 1px solid;
+	padding: 5px;
+}
+
+.form-container {
+	margin-top: 20px;
+	margin-left: 20px;
+}

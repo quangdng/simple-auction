@@ -1,0 +1,65 @@
+/*-----------------------------------------------------------------------------------*/
+/*	Start Global CSS
+/*-----------------------------------------------------------------------------------*/
+
+body{
+	font-size:12px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:normal;
+}
+
+.minicontainer{
+	width:auto;
+	margin:0px auto;
+}
+
+.centerBox{
+	width:auto;
+	height:auto;
+	background-image:url(../images/background.png);
+	background-repeat: repeat;
+}
+
+h1, h2, h3, h4, h5, h6{
+	margin-bottom:20px;
+	margin-top: 10px;
+}
+
+h1{
+	font-size:30px;
+	font-weight:normal;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1.page-header{
+	border-top:1px solid #EFEFEF;
+	border-bottom:1px solid #EFEFEF;
+	padding:20px 0px;
+	margin:0 0 40px 0;
+	color:#555555;
+}
+
+h2{
+	font-family: 'Droid Sans', sans-serif;
+	font-size:28px;
+	font-weight:bold;
+}
+
+h3{
+	font-family: 'Oswald', sans-serif;
+	font-size:24px;
+	font-weight:normal;
+	margin:0 0 8px 0;
+}
+
+h4{
+	font-family: 'Droid Sans', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+}
+
+h5{
+	font-family: 'Droid Sans', sans-serif;
+	font-size:18px;
+	font-weight:bold;
+}
