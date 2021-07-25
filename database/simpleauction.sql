@@ -70,7 +70,7 @@ CREATE TABLE `items` (
   `item_Comments` varchar(255) DEFAULT NULL,
   `item_Path` varchar(255) DEFAULT NULL,
   `admin_ID` smallint(6) NOT NULL,
-  `user_Name` varchar(11) DEFAULT 'None',
+  `user_Name` varchar(255) DEFAULT 'None',
   PRIMARY KEY (`item_ID`),
   KEY `admin_ID` (`admin_ID`),
   CONSTRAINT `admin_ID` FOREIGN KEY (`admin_ID`) REFERENCES `admin` (`admin_ID`) ON DELETE CASCADE ON UPDATE CASCADE
